@@ -1,9 +1,6 @@
-joblib
-string
-sklearn
-ast
+joblib==1.3.2
+scikit-learn
 pandas
 numpy
-fitz
 requests
 PyMuPDF
