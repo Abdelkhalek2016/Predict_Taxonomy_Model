@@ -3,6 +3,5 @@ scikit-learn
 ast
 pandas
 numpy
-fitz
 requests
 PyMuPDF
